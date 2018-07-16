@@ -2894,11 +2894,11 @@ input.hs-button.primary.large{
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   width: 140px;
-  height: 140px;
+  /*height: 140px;*/
   top: -212px;
   left: 41.07%;
   border: 2px solid white;
-  margin-top: 205px;
+  margin-top: 150px;
 }
 
 
